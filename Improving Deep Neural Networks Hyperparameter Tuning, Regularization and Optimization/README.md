@@ -1,1 +1,1 @@
-![](Deep-Learning-Specialization/Improving Deep Neural Networks Hyperparameter Tuning, Regularization and Optimization/images/Course 2 Cetificate.png)
+![](https://github.com/phule1812/Deep-Learning-Specialization/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization/Course%202%20Cetificate.png)
