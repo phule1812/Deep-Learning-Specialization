@@ -1,1 +1,4 @@
+Links to cetificate : 
+https://www.coursera.org/account/accomplishments/verify/8W7KP8H2GN3K
+
 ![](https://github.com/phule1812/Deep-Learning-Specialization/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization/images/Course%202%20Cetificate.png)
