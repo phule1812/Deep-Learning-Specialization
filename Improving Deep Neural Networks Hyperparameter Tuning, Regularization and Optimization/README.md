@@ -1,1 +1,1 @@
-![](https://upload.wikimedia.org/wikipedia/commons/b/bb/SPI_8-bit_circular_transfer.svg)
+![](Deep-Learning-Specialization/Improving Deep Neural Networks Hyperparameter Tuning, Regularization and Optimization/images/Course 2 Cetificate.png)
